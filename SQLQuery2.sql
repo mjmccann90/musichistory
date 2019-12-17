@@ -1,0 +1,1 @@
+﻿delete from Song where Id = 18;
